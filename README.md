@@ -5,7 +5,9 @@
 </div>
 <br>
 <div align="center">
+  <img align="left" height="150" src="./assets/неко.gif" alt="neko" />
   <img align="center" height="150" src="./assets/масюня.gif" alt="pisunya" />
+  <img align="right" height="150" src="./assets/цирно.gif" alt="tsirno" />
 </div>
 <br>
 <h3 align="center">Languages and Tools:</h3>
