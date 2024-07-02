@@ -5,7 +5,7 @@
 </div>
 <br>
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/a/Jun0qz4.gif" alt="coding gif" />
+  <img align="center" height="150" src="https://imgur.com/a/Jun0qz4.gif" alt="pisunya" />
 </div>
 <br>
 <h3 align="center">Languages and Tools:</h3>
