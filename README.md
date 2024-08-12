@@ -39,10 +39,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VisageDvachevsky&theme=radical" width="31%" alt="Productive Time" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VisageDvachevsky&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophy" />
-</p>
-
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
