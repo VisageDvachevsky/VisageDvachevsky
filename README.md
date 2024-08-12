@@ -27,17 +27,16 @@
 </p>
 
 <h2 align="center">GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisageDvachevsky&show_icons=true&count_private=true&theme=radical" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisageDvachevsky&theme=radical" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VisageDvachevsky&theme=radical" width="31%" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VisageDvachevsky&theme=radical" width="31%" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VisageDvachevsky&theme=radical" width="31%" alt="Productive Time" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; position: relative;">
+  <div style="margin: 10px; transform: rotate(-2deg); z-index: 2;">
+    <img src="https://github-readme-stats.vercel.app/api?username=VisageDvachevsky&show_icons=true&count_private=true&theme=radical&border_color=2e3440" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); width: 350px;" />
+  </div>
+  
+  <div style="display: flex; flex-direction: column; margin: 10px; transform: rotate(1.5deg); z-index: 1;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VisageDvachevsky&theme=radical&border_color=2e3440" alt="Top Languages by Repo" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); width: 260px; margin-bottom: 20px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VisageDvachevsky&theme=radical&border_color=2e3440" alt="Top Languages by Commit" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); width: 260px;" />
+  </div>
+</div>
 
 <h2 align="center">Featured Projects</h2>
 
