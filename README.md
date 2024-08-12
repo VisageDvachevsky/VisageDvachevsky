@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>If you want to reach out, feel free to connect with me through any of the following platforms:</p>
+  <p>If you would like to contact me, feel free to message me on any of the following platforms:</p>
   <p align="center">
     <a href="https://t.me/@selfharm_machine"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://vk.com/selfharm_machine"><img src="https://img.shields.io/badge/-VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
@@ -39,6 +39,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VisageDvachevsky&theme=radical" width="31%" alt="Productive Time" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VisageDvachevsky&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophy" />
+</p>
+
 <h2 align="center">Featured Projects</h2>
 
 <div align="center">
@@ -49,8 +53,4 @@
   
   - **[NovelMind](https://github.com/VisageDvachevsky/NovelMind)** - A visual game engine for creating text-based games
   
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
