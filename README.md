@@ -28,7 +28,7 @@
 </p>
 
 <h2 align="center">GitHub Analytics</h2>  
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VisageDvachevsky&theme=radical&border_color=2e3440" 
        alt="Top Languages by Repo" 
        style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); width: 260px; margin-bottom: 20px;" />
@@ -37,7 +37,6 @@
        alt="Top Languages by Commit" 
        style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); width: 260px;" />
 </div>
-
 
 <h2 align="center">Featured Projects</h2>
 
