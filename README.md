@@ -5,7 +5,7 @@
 <div align="center">
   <p>If you would like to contact me, feel free to message me on any of the following platforms:</p>
   <p align="center">
-    <a href="https://t.me/@selfharm_machine"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+    <a href="https://t.me/selfharm_machine"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="https://vk.com/selfharm_machine"><img src="https://img.shields.io/badge/-VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
   </p>
 </div>
