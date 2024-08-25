@@ -30,7 +30,7 @@
 <h2 align="center">GitHub Analytics</h2>
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; position: relative;">
   <div style="margin: 10px; transform: rotate(-2deg); z-index: 2;">
-    <img src="https://github-readme-stats.vercel.app/api?username=VisageDvachevsky&show_icons=true&count_private=true&theme=radical&border_color=2e3440" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); width: 350px;" />
+    <img src="![Stats](https://github-contributor-stats.vercel.app/api?username=VisageDvachevsky)" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); width: 350px;" />
   </div>
   
   <div style="display: flex; flex-direction: column; margin: 10px; transform: rotate(1.5deg); z-index: 1;">
